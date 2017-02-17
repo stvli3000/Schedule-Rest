@@ -1,6 +1,6 @@
 # Schedule-Rest
 
-Do you often forget to stop hard working, playing games, watching movies when time flies quietly? If yes, good on you, this is not necessary for you. If NOOOOOOO, I hope this little 33KB green application may help sometimes. This Schedule Rest application helps schedule shutdown / hibernate / sleep computer on time, comes with System tray icon. This is my first Windows application, tends to be green and pure, no installation, ADs or network communication asked. This application provides following features:
+Would you like a program to put your computer into sleeping when time flies quietly? I hope this little 33KB green application may help. The Schedule Rest application helps schedule shutdown / hibernate / sleep computer on time, comes with System tray icon. This is my first Windows application, tends to be green and pure, no installation, ADs or network communication asked. This application provides following features:
 
   - System Tray Icon 
 
